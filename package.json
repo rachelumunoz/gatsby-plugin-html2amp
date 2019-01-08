@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tomoyukikashiro/gatsby-plugin-html2amp.git"
+    "url": "git+https://github.com/rachelumunoz/gatsby-plugin-html2amp.git"
   },
   "keywords": [
     "gatsby",
@@ -19,9 +19,9 @@
   "author": "Tomoyuki Kashiro",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tomoyukikashiro/gatsby-plugin-html2amp/issues"
+    "url": "https://github.com/rachelumunoz/gatsby-plugin-html2amp/issues"
   },
-  "homepage": "https://github.com/tomoyukikashiro/gatsby-plugin-html2amp#readme",
+  "homepage": "https://github.com/rachelumunoz/gatsby-plugin-html2amp#readme",
   "dependencies": {
     "fs-extra": "^7.0.1",
     "globby": "^8.0.1",
