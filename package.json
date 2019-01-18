@@ -25,7 +25,7 @@
   "dependencies": {
     "fs-extra": "^7.0.1",
     "globby": "^8.0.1",
-    "html2amp": "git+https://github.com/rachelumunoz/html2amp.git"
+    "html2amp": "git+https://github.com/rachelumunoz/html2amp.git#iframe-amp"
   },
   "devDependencies": {
     "eslint": "5.9.0",
